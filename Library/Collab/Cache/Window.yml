@@ -1,0 +1,606 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Background Music.mp3
+    - Assets/Background Music.mp3.meta
+    - Assets/Bolt 2D JellyFarm VE2.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Ac1.controller
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Ac1.controller.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Ac2.controller
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Ac2.controller.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Ac3.controller
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Ac3.controller.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Idle1.anim
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Idle1.anim.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Idle2.anim
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Idle2.anim.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Idle3.anim
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Idle3.anim.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Touch1.anim
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Touch1.anim.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Touch2.anim
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Touch2.anim.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Touch3.anim
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Touch3.anim.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Walk1.anim
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Walk1.anim.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Walk2.anim
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Walk2.anim.meta
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Walk3.anim
+    - Assets/Bolt 2D JellyFarm VE2/Animations/Walk3.anim.meta
+    - Assets/Bolt 2D JellyFarm VE2/App Icon.png
+    - Assets/Bolt 2D JellyFarm VE2/App Icon.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/BGM.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/BGM.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Button.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Button.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Buy.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Buy.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Clear.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Clear.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Fail.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Fail.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Grow.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Grow.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Pause In.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Pause In.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Pause Out.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Pause Out.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Sell.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Sell.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Touch.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Touch.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Unlock.wav
+    - Assets/Bolt 2D JellyFarm VE2/Audio/Unlock.wav.meta
+    - Assets/Bolt 2D JellyFarm VE2/Demo.meta
+    - Assets/Bolt 2D JellyFarm VE2/Demo/Demo.unity
+    - Assets/Bolt 2D JellyFarm VE2/Demo/Demo.unity.meta
+    - Assets/Bolt 2D JellyFarm VE2/Fonts.meta
+    - Assets/Bolt 2D JellyFarm VE2/Fonts/DoHyeon-Regular.ttf
+    - Assets/Bolt 2D JellyFarm VE2/Fonts/DoHyeon-Regular.ttf.meta
+    - Assets/Bolt 2D JellyFarm VE2/Fonts/SIL Open Font License (OFL).url
+    - Assets/Bolt 2D JellyFarm VE2/Fonts/SIL Open Font License (OFL).url.meta
+    - Assets/Bolt 2D JellyFarm VE2/Particles.meta
+    - Assets/Bolt 2D JellyFarm VE2/Particles/Shin Dust.prefab
+    - Assets/Bolt 2D JellyFarm VE2/Particles/Shin Dust.prefab.meta
+    - Assets/Bolt 2D JellyFarm VE2/ReadMe.meta
+    - Assets/Bolt 2D JellyFarm VE2/ReadMe/Icon.png
+    - Assets/Bolt 2D JellyFarm VE2/ReadMe/Icon.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/ReadMe/Scripts.meta
+    - Assets/Bolt 2D JellyFarm VE2/ReadMe/Scripts/Editor.meta
+    - Assets/Bolt 2D JellyFarm VE2/ReadMe/Scripts/Editor/ReadmeEditorVE2.cs
+    - Assets/Bolt 2D JellyFarm VE2/ReadMe/Scripts/Editor/ReadmeEditorVE2.cs.meta
+    - Assets/Bolt 2D JellyFarm VE2/ReadMe/Scripts/ReadmeVE2.cs
+    - Assets/Bolt 2D JellyFarm VE2/ReadMe/Scripts/ReadmeVE2.cs.meta
+    - Assets/Bolt 2D JellyFarm VE2/Readme.asset
+    - Assets/Bolt 2D JellyFarm VE2/Readme.asset.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Cloud A.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Cloud A.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Cloud B.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Cloud B.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 0.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 0.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 1.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 1.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 10.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 10.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 11.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 11.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 2.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 2.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 3.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 3.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 4.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 4.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 5.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 5.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 6.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 6.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 7.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 7.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 8.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 8.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 9.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Jelly 9.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Room.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Room.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Shadow.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Shadow.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Shin.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Shin.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Sky.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/InGame/Sky.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 0.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 0.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 1.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 1.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 2 Over.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 2 Over.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 2.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 2.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 3 Over.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 3 Over.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 3.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 3.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 4 Over.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 4 Over.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 4.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 4.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 5 Over.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 5 Over.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 5.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 5.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 6.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 6.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 7.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon 7.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon Shadow.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Icon Shadow.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Lock.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Lock.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Medal.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Medal.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Border.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Border.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Left Over.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Left Over.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Left.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Left.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Right Over.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Right Over.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Right.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Right.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Under.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel Under.png.meta
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel.png
+    - Assets/Bolt 2D JellyFarm VE2/Sprites/UI/Panel.png.meta
+    - Assets/CasualGameSounds.meta
+    - Assets/CasualGameSounds/Collect.wav
+    - Assets/CasualGameSounds/Collect.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-01.wav
+    - Assets/CasualGameSounds/DM-CGS-01.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-02.wav
+    - Assets/CasualGameSounds/DM-CGS-02.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-03.wav
+    - Assets/CasualGameSounds/DM-CGS-03.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-04.wav
+    - Assets/CasualGameSounds/DM-CGS-04.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-06.wav
+    - Assets/CasualGameSounds/DM-CGS-06.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-08.wav
+    - Assets/CasualGameSounds/DM-CGS-08.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-09.wav
+    - Assets/CasualGameSounds/DM-CGS-09.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-10.wav
+    - Assets/CasualGameSounds/DM-CGS-10.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-11.wav
+    - Assets/CasualGameSounds/DM-CGS-11.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-12.wav
+    - Assets/CasualGameSounds/DM-CGS-12.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-13.wav
+    - Assets/CasualGameSounds/DM-CGS-13.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-14.wav
+    - Assets/CasualGameSounds/DM-CGS-14.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-15.wav
+    - Assets/CasualGameSounds/DM-CGS-15.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-16.wav
+    - Assets/CasualGameSounds/DM-CGS-16.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-17.wav
+    - Assets/CasualGameSounds/DM-CGS-17.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-18.wav
+    - Assets/CasualGameSounds/DM-CGS-18.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-19.wav
+    - Assets/CasualGameSounds/DM-CGS-19.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-20.wav
+    - Assets/CasualGameSounds/DM-CGS-20.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-21.wav
+    - Assets/CasualGameSounds/DM-CGS-21.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-22.wav
+    - Assets/CasualGameSounds/DM-CGS-22.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-23.wav
+    - Assets/CasualGameSounds/DM-CGS-23.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-24.wav
+    - Assets/CasualGameSounds/DM-CGS-24.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-25.wav
+    - Assets/CasualGameSounds/DM-CGS-25.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-26.wav
+    - Assets/CasualGameSounds/DM-CGS-26.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-27.wav
+    - Assets/CasualGameSounds/DM-CGS-27.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-28.wav
+    - Assets/CasualGameSounds/DM-CGS-28.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-29.wav
+    - Assets/CasualGameSounds/DM-CGS-29.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-30.wav
+    - Assets/CasualGameSounds/DM-CGS-30.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-31.wav
+    - Assets/CasualGameSounds/DM-CGS-31.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-33.wav
+    - Assets/CasualGameSounds/DM-CGS-33.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-34.wav
+    - Assets/CasualGameSounds/DM-CGS-34.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-35.wav
+    - Assets/CasualGameSounds/DM-CGS-35.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-36.wav
+    - Assets/CasualGameSounds/DM-CGS-36.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-37.wav
+    - Assets/CasualGameSounds/DM-CGS-37.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-38.wav
+    - Assets/CasualGameSounds/DM-CGS-38.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-39.wav
+    - Assets/CasualGameSounds/DM-CGS-39.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-40.wav
+    - Assets/CasualGameSounds/DM-CGS-40.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-41.wav
+    - Assets/CasualGameSounds/DM-CGS-41.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-42.wav
+    - Assets/CasualGameSounds/DM-CGS-42.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-43.wav
+    - Assets/CasualGameSounds/DM-CGS-43.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-44.wav
+    - Assets/CasualGameSounds/DM-CGS-44.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-45.wav
+    - Assets/CasualGameSounds/DM-CGS-45.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-46.wav
+    - Assets/CasualGameSounds/DM-CGS-46.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-47.wav
+    - Assets/CasualGameSounds/DM-CGS-47.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-48.wav
+    - Assets/CasualGameSounds/DM-CGS-48.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-49.wav
+    - Assets/CasualGameSounds/DM-CGS-49.wav.meta
+    - Assets/CasualGameSounds/DM-CGS-50.wav
+    - Assets/CasualGameSounds/DM-CGS-50.wav.meta
+    - Assets/CasualGameSounds/Death.wav
+    - Assets/CasualGameSounds/Death.wav.meta
+    - Assets/CasualGameSounds/Jumping.wav
+    - Assets/CasualGameSounds/Jumping.wav.meta
+    - Assets/CasualGameSounds/license.pdf
+    - Assets/CasualGameSounds/license.pdf.meta
+    - Assets/Fonts.meta
+    - Assets/Fonts/Press_Start_2P.meta
+    - Assets/Fonts/Press_Start_2P/OFL.txt
+    - Assets/Fonts/Press_Start_2P/OFL.txt.meta
+    - Assets/Fonts/Press_Start_2P/PressStart2P-Regular.ttf
+    - Assets/Fonts/Press_Start_2P/PressStart2P-Regular.ttf.meta
+    - Assets/PlayerMaterial.physicsMaterial2D
+    - Assets/PlayerMaterial.physicsMaterial2D.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Animations.meta
+    - Assets/Prefabs/Animations/Finish.controller
+    - Assets/Prefabs/Animations/Finish.controller.meta
+    - Assets/Prefabs/Animations/Portal.anim
+    - Assets/Prefabs/Animations/Portal.anim.meta
+    - Assets/Prefabs/Coin.prefab
+    - Assets/Prefabs/Coin.prefab.meta
+    - Assets/Prefabs/GreenJelly.png
+    - Assets/Prefabs/GreenJelly.png.meta
+    - Assets/Prefabs/Player.prefab
+    - Assets/Prefabs/Player.prefab.meta
+    - Assets/Prefabs/Portal.png
+    - Assets/Prefabs/Portal.png.meta
+    - Assets/Prefabs/RedJelly.png
+    - Assets/Prefabs/RedJelly.png.meta
+    - Assets/Prefabs/Skull.prefab
+    - Assets/Prefabs/Skull.prefab.meta
+    - Assets/Prefabs/YellowJelly.png
+    - Assets/Prefabs/YellowJelly.png.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/Controls.unity
+    - Assets/Scenes/Controls.unity.meta
+    - Assets/Scenes/EndScreen.unity
+    - Assets/Scenes/EndScreen.unity.meta
+    - Assets/Scenes/Level 1 - 1 (Green).unity
+    - Assets/Scenes/Level 1 - 1 (Green).unity.meta
+    - Assets/Scenes/Level 1 - 2 (Yellow).unity
+    - Assets/Scenes/Level 1 - 2 (Yellow).unity.meta
+    - Assets/Scenes/Level 1 - 3 (Red).unity
+    - Assets/Scenes/Level 1 - 3 (Red).unity.meta
+    - Assets/Scenes/Level 2 - 1 (Green).unity
+    - Assets/Scenes/Level 2 - 1 (Green).unity.meta
+    - Assets/Scenes/Level 2 - 2 (Yellow).unity
+    - Assets/Scenes/Level 2 - 2 (Yellow).unity.meta
+    - Assets/Scenes/Level 2 - 3 (Red).unity
+    - Assets/Scenes/Level 2 - 3 (Red).unity.meta
+    - Assets/Scenes/StartScreen.unity
+    - Assets/Scenes/StartScreen.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/BackgroundMusic.cs
+    - Assets/Scripts/BackgroundMusic.cs.meta
+    - Assets/Scripts/CameraController.cs
+    - Assets/Scripts/CameraController.cs.meta
+    - Assets/Scripts/CoinCollector.cs
+    - Assets/Scripts/CoinCollector.cs.meta
+    - Assets/Scripts/EndGame.cs
+    - Assets/Scripts/EndGame.cs.meta
+    - Assets/Scripts/Finish.cs
+    - Assets/Scripts/Finish.cs.meta
+    - Assets/Scripts/Patrol.cs
+    - Assets/Scripts/Patrol.cs.meta
+    - Assets/Scripts/PlayerLife.cs
+    - Assets/Scripts/PlayerLife.cs.meta
+    - Assets/Scripts/PlayerMovement.cs
+    - Assets/Scripts/PlayerMovement.cs.meta
+    - Assets/Scripts/StartGame.cs
+    - Assets/Scripts/StartGame.cs.meta
+    - Assets/Sprites.meta
+    - Assets/Sprites/1 heart.png
+    - Assets/Sprites/1 heart.png.meta
+    - Assets/Sprites/2 hearts.png
+    - Assets/Sprites/2 hearts.png.meta
+    - Assets/Sprites/3 hearts.png
+    - Assets/Sprites/3 hearts.png.meta
+    - Assets/Sprites/Character.meta
+    - Assets/Sprites/Character/3Jellys.png
+    - Assets/Sprites/Character/3Jellys.png.meta
+    - Assets/Sprites/Character/Animations.meta
+    - Assets/Sprites/Character/Animations/Green_Death.anim
+    - Assets/Sprites/Character/Animations/Green_Death.anim.meta
+    - Assets/Sprites/Character/Animations/Green_Falling.anim
+    - Assets/Sprites/Character/Animations/Green_Falling.anim.meta
+    - Assets/Sprites/Character/Animations/Green_Idle.anim
+    - Assets/Sprites/Character/Animations/Green_Idle.anim.meta
+    - Assets/Sprites/Character/Animations/Green_Jumping.anim
+    - Assets/Sprites/Character/Animations/Green_Jumping.anim.meta
+    - Assets/Sprites/Character/Animations/Green_Running.anim
+    - Assets/Sprites/Character/Animations/Green_Running.anim.meta
+    - Assets/Sprites/Character/Animations/Player.controller
+    - Assets/Sprites/Character/Animations/Player.controller.meta
+    - Assets/Sprites/Character/Blinking.anim
+    - Assets/Sprites/Character/Blinking.anim.meta
+    - Assets/Sprites/Character/Eating.anim
+    - Assets/Sprites/Character/Eating.anim.meta
+    - Assets/Sprites/Character/Green Jelly.meta
+    - Assets/Sprites/Character/Green Jelly/Animations.meta
+    - Assets/Sprites/Character/Green Jelly/Green jelly death  better.png
+    - Assets/Sprites/Character/Green Jelly/Green jelly death  better.png.meta
+    - Assets/Sprites/Character/Green Jelly/Green jelly death.png
+    - Assets/Sprites/Character/Green Jelly/Green jelly death.png.meta
+    - Assets/Sprites/Character/Green Jelly/Green jelly falling.png
+    - Assets/Sprites/Character/Green Jelly/Green jelly falling.png.meta
+    - Assets/Sprites/Character/Green Jelly/Green jelly jumping.png
+    - Assets/Sprites/Character/Green Jelly/Green jelly jumping.png.meta
+    - Assets/Sprites/Character/Green Jelly/Green jelly respawn.png
+    - Assets/Sprites/Character/Green Jelly/Green jelly respawn.png.meta
+    - Assets/Sprites/Character/Green Jelly/Green jelly running 2.png
+    - Assets/Sprites/Character/Green Jelly/Green jelly running 2.png.meta
+    - Assets/Sprites/Character/Green Jelly/Green jelly running better.png
+    - Assets/Sprites/Character/Green Jelly/Green jelly running better.png.meta
+    - Assets/Sprites/Character/Green Jelly/Green jelly running.png
+    - Assets/Sprites/Character/Green Jelly/Green jelly running.png.meta
+    - Assets/Sprites/Character/Green Jelly/GreenJelly Idle.png
+    - Assets/Sprites/Character/Green Jelly/GreenJelly Idle.png.meta
+    - Assets/Sprites/Character/Image.controller
+    - Assets/Sprites/Character/Image.controller.meta
+    - Assets/Sprites/Character/Red Jelly.meta
+    - Assets/Sprites/Character/Red Jelly/Red jelly death.png
+    - Assets/Sprites/Character/Red Jelly/Red jelly death.png.meta
+    - Assets/Sprites/Character/Red Jelly/Red jelly falling.png
+    - Assets/Sprites/Character/Red Jelly/Red jelly falling.png.meta
+    - Assets/Sprites/Character/Red Jelly/Red jelly idle.png
+    - Assets/Sprites/Character/Red Jelly/Red jelly idle.png.meta
+    - Assets/Sprites/Character/Red Jelly/Red jelly jumping.png
+    - Assets/Sprites/Character/Red Jelly/Red jelly jumping.png.meta
+    - Assets/Sprites/Character/Red Jelly/Red jelly running.png
+    - Assets/Sprites/Character/Red Jelly/Red jelly running.png.meta
+    - Assets/Sprites/Character/Skull.controller
+    - Assets/Sprites/Character/Skull.controller.meta
+    - Assets/Sprites/Character/Skull.meta
+    - Assets/Sprites/Character/Skull/Animaitons.meta
+    - Assets/Sprites/Character/Skull/Animaitons/Skull.controller
+    - Assets/Sprites/Character/Skull/Animaitons/Skull.controller.meta
+    - Assets/Sprites/Character/Skull/Animaitons/Skull_walking.anim
+    - Assets/Sprites/Character/Skull/Animaitons/Skull_walking.anim.meta
+    - Assets/Sprites/Character/Skull/skull walking 1.png
+    - Assets/Sprites/Character/Skull/skull walking 1.png.meta
+    - Assets/Sprites/Character/Skull/skull walking.png
+    - Assets/Sprites/Character/Skull/skull walking.png.meta
+    - Assets/Sprites/Character/Skull/skull.png
+    - Assets/Sprites/Character/Skull/skull.png.meta
+    - Assets/Sprites/Character/Yellow Jelly.meta
+    - Assets/Sprites/Character/Yellow Jelly/Animations.meta
+    - Assets/Sprites/Character/Yellow Jelly/Animations/Yellow_Death.anim
+    - Assets/Sprites/Character/Yellow Jelly/Animations/Yellow_Death.anim.meta
+    - Assets/Sprites/Character/Yellow Jelly/Animations/Yellow_Falling.anim
+    - Assets/Sprites/Character/Yellow Jelly/Animations/Yellow_Falling.anim.meta
+    - Assets/Sprites/Character/Yellow Jelly/Animations/Yellow_Idle.anim
+    - Assets/Sprites/Character/Yellow Jelly/Animations/Yellow_Idle.anim.meta
+    - Assets/Sprites/Character/Yellow Jelly/Animations/Yellow_Jumping.anim
+    - Assets/Sprites/Character/Yellow Jelly/Animations/Yellow_Jumping.anim.meta
+    - Assets/Sprites/Character/Yellow Jelly/Animations/Yellow_Running.anim
+    - Assets/Sprites/Character/Yellow Jelly/Animations/Yellow_Running.anim.meta
+    - Assets/Sprites/Character/Yellow Jelly/Yellow jelly death.png
+    - Assets/Sprites/Character/Yellow Jelly/Yellow jelly death.png.meta
+    - Assets/Sprites/Character/Yellow Jelly/Yellow jelly falling.png
+    - Assets/Sprites/Character/Yellow Jelly/Yellow jelly falling.png.meta
+    - Assets/Sprites/Character/Yellow Jelly/Yellow jelly idle.png
+    - Assets/Sprites/Character/Yellow Jelly/Yellow jelly idle.png.meta
+    - Assets/Sprites/Character/Yellow Jelly/Yellow jelly jumping.png
+    - Assets/Sprites/Character/Yellow Jelly/Yellow jelly jumping.png.meta
+    - Assets/Sprites/Character/Yellow Jelly/Yellow jelly running.png
+    - Assets/Sprites/Character/Yellow Jelly/Yellow jelly running.png.meta
+    - Assets/Sprites/Coin.anim
+    - Assets/Sprites/Coin.anim.meta
+    - Assets/Sprites/Coin.controller
+    - Assets/Sprites/Coin.controller.meta
+    - Assets/Sprites/Skull Coin.png
+    - Assets/Sprites/Skull Coin.png.meta
+    - Assets/Terrain.meta
+    - Assets/Terrain.prefab
+    - Assets/Terrain.prefab.meta
+    - Assets/Terrain/LeftBlack.png
+    - Assets/Terrain/LeftBlack.png.meta
+    - Assets/Terrain/LeftGreen.png
+    - Assets/Terrain/LeftGreen.png.meta
+    - Assets/Terrain/LeftRed.png
+    - Assets/Terrain/LeftRed.png.meta
+    - Assets/Terrain/LeftYellow.png
+    - Assets/Terrain/LeftYellow.png.meta
+    - Assets/Terrain/MiddleBlack.png
+    - Assets/Terrain/MiddleBlack.png.meta
+    - Assets/Terrain/MiddleGreen.png
+    - Assets/Terrain/MiddleGreen.png.meta
+    - Assets/Terrain/MiddleRed.png
+    - Assets/Terrain/MiddleRed.png.meta
+    - Assets/Terrain/MiddleYellow.png
+    - Assets/Terrain/MiddleYellow.png.meta
+    - Assets/Terrain/New Piskel (2) (1).png
+    - Assets/Terrain/New Piskel (2) (1).png.meta
+    - Assets/Terrain/New Piskel (2) (2).png
+    - Assets/Terrain/New Piskel (2) (2).png.meta
+    - Assets/Terrain/New Piskel (2) (3).png
+    - Assets/Terrain/New Piskel (2) (3).png.meta
+    - Assets/Terrain/New Piskel (2) (4).png
+    - Assets/Terrain/New Piskel (2) (4).png.meta
+    - Assets/Terrain/New Piskel (2) (5).png
+    - Assets/Terrain/New Piskel (2) (5).png.meta
+    - Assets/Terrain/New Piskel (2) (6).png
+    - Assets/Terrain/New Piskel (2) (6).png.meta
+    - Assets/Terrain/New Piskel (2) (7).png
+    - Assets/Terrain/New Piskel (2) (7).png.meta
+    - Assets/Terrain/New Piskel (2).png
+    - Assets/Terrain/New Piskel (2).png.meta
+    - Assets/Terrain/New Piskel (3) (1).png
+    - Assets/Terrain/New Piskel (3) (1).png.meta
+    - Assets/Terrain/New Piskel (3) (2).png
+    - Assets/Terrain/New Piskel (3) (2).png.meta
+    - Assets/Terrain/New Piskel (3) (3).png
+    - Assets/Terrain/New Piskel (3) (3).png.meta
+    - Assets/Terrain/New Piskel (3).png
+    - Assets/Terrain/New Piskel (3).png.meta
+    - Assets/Terrain/New Piskel (4).png
+    - Assets/Terrain/New Piskel (4).png.meta
+    - Assets/Terrain/Other.meta
+    - Assets/Terrain/Other/New Piskel (1).png
+    - Assets/Terrain/Other/New Piskel (1).png.meta
+    - Assets/Terrain/Other/New Piskel (2).png
+    - Assets/Terrain/Other/New Piskel (2).png.meta
+    - Assets/Terrain/Other/New Piskel (3).png
+    - Assets/Terrain/Other/New Piskel (3).png.meta
+    - Assets/Terrain/Other/New Piskel (4).png
+    - Assets/Terrain/Other/New Piskel (4).png.meta
+    - Assets/Terrain/Other/Terrain - Tiles.meta
+    - Assets/Terrain/Other/Terrain - Tiles/New Piskel (2).asset
+    - Assets/Terrain/Other/Terrain - Tiles/New Piskel (2).asset.meta
+    - Assets/Terrain/Other/YellowTile.png
+    - Assets/Terrain/Other/YellowTile.png.meta
+    - Assets/Terrain/Other/yellow2.png
+    - Assets/Terrain/Other/yellow2.png.meta
+    - Assets/Terrain/RightBlack.png
+    - Assets/Terrain/RightBlack.png.meta
+    - Assets/Terrain/RightGreen.png
+    - Assets/Terrain/RightGreen.png.meta
+    - Assets/Terrain/RightRed.png
+    - Assets/Terrain/RightRed.png.meta
+    - Assets/Terrain/RightYellow.png
+    - Assets/Terrain/RightYellow.png.meta
+    - Assets/Terrain/Terrain - Tiles.meta
+    - Assets/Terrain/Terrain - Tiles/Green block.png
+    - Assets/Terrain/Terrain - Tiles/Green block.png.meta
+    - Assets/Terrain/Terrain - Tiles/LeftBlack.asset
+    - Assets/Terrain/Terrain - Tiles/LeftBlack.asset.meta
+    - Assets/Terrain/Terrain - Tiles/LeftGreen.asset
+    - Assets/Terrain/Terrain - Tiles/LeftGreen.asset.meta
+    - Assets/Terrain/Terrain - Tiles/LeftRed.asset
+    - Assets/Terrain/Terrain - Tiles/LeftRed.asset.meta
+    - Assets/Terrain/Terrain - Tiles/LeftYellow.asset
+    - Assets/Terrain/Terrain - Tiles/LeftYellow.asset.meta
+    - Assets/Terrain/Terrain - Tiles/MiddleBlack.asset
+    - Assets/Terrain/Terrain - Tiles/MiddleBlack.asset.meta
+    - Assets/Terrain/Terrain - Tiles/MiddleGreen.asset
+    - Assets/Terrain/Terrain - Tiles/MiddleGreen.asset.meta
+    - Assets/Terrain/Terrain - Tiles/MiddleRed.asset
+    - Assets/Terrain/Terrain - Tiles/MiddleRed.asset.meta
+    - Assets/Terrain/Terrain - Tiles/MiddleYellow.asset
+    - Assets/Terrain/Terrain - Tiles/MiddleYellow.asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (1).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (1).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (2).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (2).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (3).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (3).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (4).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (4).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (5).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (5).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (6).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (6).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (7).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2) (7).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (2).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (3) (1).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (3) (1).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (3) (2).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (3) (2).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (3) (3).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (3) (3).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (3).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (3).asset.meta
+    - Assets/Terrain/Terrain - Tiles/New Piskel (4).asset
+    - Assets/Terrain/Terrain - Tiles/New Piskel (4).asset.meta
+    - Assets/Terrain/Terrain - Tiles/RightBlack.asset
+    - Assets/Terrain/Terrain - Tiles/RightBlack.asset.meta
+    - Assets/Terrain/Terrain - Tiles/RightGreen.asset
+    - Assets/Terrain/Terrain - Tiles/RightGreen.asset.meta
+    - Assets/Terrain/Terrain - Tiles/RightRed.asset
+    - Assets/Terrain/Terrain - Tiles/RightRed.asset.meta
+    - Assets/Terrain/Terrain - Tiles/RightYellow.asset
+    - Assets/Terrain/Terrain - Tiles/RightYellow.asset.meta
+    - Assets/Terrain/Terrain - Tiles/blank yellow.asset
+    - Assets/Terrain/Terrain - Tiles/blank yellow.asset.meta
+    - Assets/Terrain/Terrain - Tiles/yellow top.asset
+    - Assets/Terrain/Terrain - Tiles/yellow top.asset.meta
+    - Assets/Terrain/blank yellow.png
+    - Assets/Terrain/blank yellow.png.meta
+    - Assets/Terrain/yellow top.png
+    - Assets/Terrain/yellow top.png.meta
+    - Assets/Tilemap - Terrain.meta
+    - Assets/Tilemap - Terrain/Terrain.prefab
+    - Assets/Tilemap - Terrain/Terrain.prefab.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 1
