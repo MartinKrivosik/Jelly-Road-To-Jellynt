@@ -6,7 +6,7 @@ Inšpiráciu na hru som z časti zobral z hry Sifu, kde pri smrti postava hráč
 starne a chcel som naimplementovať niečo podobné, že by smrť v
 platformovke niečo zmenila.
 
-## Ako hrať
+## O čom je hra?
 Hráč začina so zelenou farbou a smrťou sa mu meni na žltú a potom na
 červenú. Farba hráča ovplyvňuje na aké bloky môže stúpiť, pričom zelený môže
 iba na zelené, žltý na zelené a žlte a červený na všetky. Takže sa hráčovi
