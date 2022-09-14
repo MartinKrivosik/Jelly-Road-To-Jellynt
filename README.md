@@ -33,7 +33,7 @@ Build a 2D Platformer Game in Unity | Unity Beginner Tutorial
 
 ## Vlastné prvky
 * Farby a animácie (beh, skok, pád, smrť, idle) na sprite-ov postavy (zelený, žltý, červený)
-![image](Assets/Sprites/Character/3Jellys.png)
+[image](Assets/Sprites/Character/3Jellys.png)
 * Dizajn blokov, po ktorých postava skáče
 * Animácia nepriateľa (lebky)
 * Animácia 3 slime-ov na začiatku a konci hry
