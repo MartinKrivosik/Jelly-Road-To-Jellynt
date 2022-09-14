@@ -50,4 +50,7 @@ Build a 2D Platformer Game in Unity | Unity Beginner Tutorial
 
 * Dizajn počtu srdiečok/životov
 
-![image](/Assets/Sprites/2%20hearts.png))
+![image](/Assets/Sprites/3%20hearts.png)
+![image](/Assets/Sprites/2%20hearts.png)
+![image](/Assets/Sprites/1%20heart.png)
+
