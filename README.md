@@ -34,7 +34,7 @@ Build a 2D Platformer Game in Unity | Unity Beginner Tutorial
 ## Vlastné prvky
 * Farby a animácie (beh, skok, pád, smrť, idle) na sprite-ov postavy (zelený, žltý, červený)
 
-![image](Assets/Sprites/Character/Green%20Jelly/Green%20jelly%20jumping.png)
+![image](Assets/Sprites/Character/Green%20Jelly/Green%20jelly%20death.png)
 
 * Dizajn blokov, po ktorých postava skáče
 
@@ -50,4 +50,4 @@ Build a 2D Platformer Game in Unity | Unity Beginner Tutorial
 
 * Dizajn počtu srdiečok/životov
 
-![image]((https://github.com/MartinKrivosik/Jelly-Road-To-Jellynt/blob/main/Assets/Sprites/2%20hearts.png))
+![image](/Assets/Sprites/2%20hearts.png))
