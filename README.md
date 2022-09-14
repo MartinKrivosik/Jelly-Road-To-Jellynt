@@ -38,7 +38,7 @@ Build a 2D Platformer Game in Unity | Unity Beginner Tutorial
 
 * Dizajn blokov, po ktorých postava skáče
 
-![image](Assets/Tilemap - Terrain/Terrain.prefab)
+![image](Assets/Terrain/LeftRed.png)
 
 * Animácia nepriateľa (lebky)
 
