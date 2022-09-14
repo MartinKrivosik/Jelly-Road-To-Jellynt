@@ -1,12 +1,12 @@
 # Jelly-Road-To-Jellyn't
 2D platformer I made for my Game Design Intro class in 2nd year of University
 
-##Úvod
+## Úvod
 Inšpiráciu na hru som z časti zobral z hry Sifu, kde pri smrti postava hráča
 starne a chcel som naimplementovať niečo podobné, že by smrť v
 platformovke niečo zmenila.
 
-##Ako hrať
+## Ako hrať
 Hráč začina so zelenou farbou a smrťou sa mu meni na žltú a potom na
 červenú. Farba hráča ovplyvňuje na aké bloky môže stúpiť, pričom zelený môže
 iba na zelené, žltý na zelené a žlte a červený na všetky. Takže sa hráčovi
@@ -18,7 +18,7 @@ skakania a dopadania na správne bloky, ale bez nepriateľov, lenže ak stratí
 Ovládanie je podľa mňa docela jednoduché, postava sa ovláda tlačítkami A a D
 doľava, poprípade doprava a tlačítkom W skáče.
 
-##Základy
+## Základy
 Pokračoval som v 2D plošinovke, ktorú som robil skorej v semestri, čiže som
 robil podľa nej + podľa tejto série tutoriálov na youtube:
 Build a 2D Platformer Game in Unity | Unity Beginner Tutorial
@@ -34,7 +34,7 @@ https://assetstore.unity.com/packages/audio/sound-fx/free-casualgame-sfx-pack-54
 * Hudba v pozadí: Ultimate 8-bit Electro Gaming Music Mix 2020 -
 Chiptune Music Mix (aj s timestampom)
 
-##Vlastné prvky:
+## Vlastné prvky
 * Farby a animácie (beh, skok, pád, smrť, idle) na sprite-ov postavy
 (zelený, žltý, červený)
 * Dizajn blokov, po ktorých postava skáče
