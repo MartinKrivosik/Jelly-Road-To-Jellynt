@@ -50,4 +50,4 @@ Build a 2D Platformer Game in Unity | Unity Beginner Tutorial
 
 * Dizajn počtu srdiečok/životov
 
-![image](Assets/Sprites/2 hearts.png)
+![image]([Assets/Sprites/2 hearts.png](https://github.com/MartinKrivosik/Jelly-Road-To-Jellynt/blob/main/Assets/Sprites/2%20hearts.png))
